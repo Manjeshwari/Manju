@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Localize</string>
+    <string name="sampling">Sample</string>
+    <string name="pathing">Path</string>
+    <string name="locating">Locate</string>
+    <string name="options">Options</string>
+    <string name="country">Country</string>
+    <string name="post_code">Post Code</string>
+    <string name="region">Region</string>
+    <string name="town">Town</string>
+    <string name="building_name">Building Name</string>
+    <string name="floor">Floor</string>
+    <string name="street_type">Street Type</string>
+    <string name="street_name">Street Name</string>
+    <string name="street_number">Street Number</string>
+    <string name="location_name">Location Name</string>
+    <string name="back">Back</string>
+    <string name="sample_scan">Sample Scan</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="enable_location_services">Enable Location Services</string>
+</resources>
